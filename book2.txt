@@ -1,0 +1,3 @@
+LizardMan,12.0
+SuperDude,28.0
+WaterWoman,12.0
